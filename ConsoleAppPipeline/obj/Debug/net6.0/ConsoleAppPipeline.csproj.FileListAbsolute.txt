@@ -1,0 +1,15 @@
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\bin\Debug\net6.0\ConsoleAppPipeline.exe
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\bin\Debug\net6.0\ConsoleAppPipeline.deps.json
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\bin\Debug\net6.0\ConsoleAppPipeline.runtimeconfig.json
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\bin\Debug\net6.0\ConsoleAppPipeline.dll
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\bin\Debug\net6.0\ConsoleAppPipeline.pdb
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\obj\Debug\net6.0\ConsoleAppPipeline.csproj.AssemblyReference.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\obj\Debug\net6.0\ConsoleAppPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\obj\Debug\net6.0\ConsoleAppPipeline.AssemblyInfoInputs.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\obj\Debug\net6.0\ConsoleAppPipeline.AssemblyInfo.cs
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\obj\Debug\net6.0\ConsoleAppPipeline.csproj.CoreCompileInputs.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\obj\Debug\net6.0\ConsoleAppPipeline.dll
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\obj\Debug\net6.0\refint\ConsoleAppPipeline.dll
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\obj\Debug\net6.0\ConsoleAppPipeline.pdb
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\obj\Debug\net6.0\ConsoleAppPipeline.genruntimeconfig.cache
+C:\Users\Pradeepa.lakshmanan\source\repos\ConsoleAppPipeline\ConsoleAppPipeline\obj\Debug\net6.0\ref\ConsoleAppPipeline.dll

@@ -1,0 +1,15 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      dotnet: 6.0
+  build:
+    commands:
+      - echo Build started on `date`
+      - cd C:\Users\Pradeepa.lakshmanan\source\repos\ConsolePipelineRepository\src\ConsolePipelineRepository
+      - dotnet build --configuration Release
+artifacts:
+  files:
+    - '**/*'
+  base-directory: 'C:\Users\Pradeepa.lakshmanan\source\repos\ConsolePipelineRepository\src\ConsolePipelineRepository\bin\Release\net6.0'
